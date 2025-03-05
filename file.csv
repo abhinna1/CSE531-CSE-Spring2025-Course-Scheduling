@@ -1,0 +1,43 @@
+Course,Section,Title,Instructor,Dates,Days,Times,Room,Instruction Mode,Enrolled
+CSE 510,AYY,Special Topic: Algorithms for Mobile Computing and IoT,Sai Roshan Ayyalasomayajula,01/22/2025 - 05/06/2025,TR,12:30PM-1:50PM,Frnczk 408,In person,2/33
+CSE 510,ETH,Special Topic: Interactive Programming Environments,Ethan Blanton,01/22/2025 - 05/06/2025,MWF,1:00PM-1:50PM,Norton 209,In person,10/12
+CSE 510,HIRS,Special Topic: Theory of Programming Languages,Andrew Hirsch,01/22/2025 - 05/06/2025,MWF,4:00PM-4:50PM,Nsc 216,In person,10/30
+CSE 510,XION,Special Topic: GPU Programming and its Applications to Artificial Intelligence,Jinjun Xiong,01/22/2025 - 05/06/2025,R,1:00PM-3:50PM,Davis 113A,In person,8/20
+CSE 518,A,Software Security,Haipeng Cai,01/22/2025 - 05/06/2025,R,5:00PM-7:50PM,Obrian 25,In person,3/40
+CSE 521,A,Operating Systems,Mostafa Mohammed,01/22/2025 - 05/06/2025,TR,9:30AM-10:50AM,Knox 104,In person,154/172
+CSE 521,B,Operating Systems,Mostafa Mohammed,01/22/2025 - 05/06/2025,TR,2:00PM-3:20PM,Norton 190,In person,221/220
+CSE 526,A,Blockchain Application Development,Bina Ramamurthy,01/22/2025 - 05/06/2025,TR,5:00PM-6:20PM,Hoch 114,In person,10/70
+CSE 531,A,Analysis of Algorithms I,Chen Xu,01/22/2025 - 05/06/2025,TR,12:30PM-1:50PM,Cooke 121,In person,13/175
+CSE 531,B,Analysis of Algorithms I,Kelin Luo,01/22/2025 - 05/06/2025,TR,2:00PM-3:20PM,Hoch 114,In person,71/175
+CSE 540,JOS2,Machine Learning and Society for majors,Atri Rudra,01/22/2025 - 05/06/2025,MW,10:00AM-11:20AM,Davis 113A,In person,3/5
+CSE 540,JOSE,Machine Learning and Society for majors,Atri Rudra,01/22/2025 - 05/06/2025,MW,10:00AM-11:20AM,Davis 113A,In person,3/7
+CSE 545,A,Coding Theory,Atri Rudra,01/22/2025 - 05/06/2025,TR,2:00PM-3:20PM,Clemen 19,In person,4/15
+CSE 546,A,Reinforcement Learning,Alina Vereshchaka,01/22/2025 - 05/06/2025,TR,2:00PM-3:20PM,Knox 104,In person,130/205
+CSE 547,A,High Performance Computing 1,Matthew Knepley,01/22/2025 - 05/06/2025,MWF,11:00AM-11:50AM,Norton 210,In person,4/4
+CSE 548,A,High Perform Computing 2,Michel Dupuis,01/22/2025 - 05/06/2025,TR,12:30PM-1:50PM,Clemen 219,In person,1/20
+CSE 555,A,Introduction to Pattern Recognition,Ifeoma Nwogu,01/22/2025 - 05/06/2025,TR,12:30PM-1:50PM,Davis 101,In person,99/104
+CSE 560,A,Data Models and Query Languages,Sreyasee Das Bhattacharjee,01/22/2025 - 05/06/2025,TR,9:30AM-10:50AM,Knox 109,In person,104/175
+CSE 560,B,Data Models and Query Languages,Shamsad Parvin,01/22/2025 - 05/06/2025,MWF,11:00AM-11:50AM,Knox 104,In person,170/170
+CSE 560,C,Data Models and Query Languages,Shamsad Parvin,01/22/2025 - 05/06/2025,MWF,10:00AM-10:50AM,Knox 104,In person,167/180
+CSE 562,000,Database Systems,Adekunle Afolabi,01/22/2025 - 05/06/2025,TR,3:30PM-4:50PM,Cooke 121,In person,38/103
+CSE 565,A,Computer Security,Xiangyu Guo,01/22/2025 - 05/06/2025,TR,9:30AM-10:50AM,Davis 101,In person,25/141
+CSE 567,A,Computational Linguistics,Staff,01/22/2025 - 05/06/2025,MWF,11:00AM-11:50AM,Remote,In person,25/26
+CSE 568,A,Robotics Algorithms,Karthik Dantu,01/22/2025 - 05/06/2025,TR,2:00PM-3:20PM,Nsc 225,In person,34/90
+CSE 573,A,Introduction to Computer Vision and Image Processing,Junsong Yuan,01/22/2025 - 05/06/2025,TR,9:30AM-10:50AM,Clemen 322,In person,16/53
+CSE 573,B,Introduction to Computer Vision and Image Processing,Nalini Ratha,01/22/2025 - 05/06/2025,TR,5:00PM-6:20PM,Nsc 201,In person,169/186
+CSE 574,A,Introduction to Machine Learning,Sreyasee Das Bhattacharjee,01/22/2025 - 05/06/2025,TR,12:30PM-1:50PM,Nsc 225,In person,90/150
+CSE 574,B,Introduction to Machine Learning,Asif Imran,01/22/2025 - 05/06/2025,TR,3:30PM-4:50PM,Nsc 201,In person,75/75
+CSE 574,C,Introduction to Machine Learning,Asif Imran,01/22/2025 - 05/06/2025,TR,5:00PM-6:20PM,Knox 109,In person,154/154
+CSE 578,A,Computational Investment,Zhen Liu,01/22/2025 - 05/06/2025,TR,11:00AM-12:20PM,Cooke 127A,In person,18/20
+CSE 586,000,Distributed Systems,Ethan Blanton,01/22/2025 - 05/06/2025,MWF,11:00AM-11:50AM,Davis 101,In person,4/0
+CSE 587,A,Data Intensive Computing,Shamsad Parvin,01/22/2025 - 05/06/2025,MWF,12:00PM-12:50PM,Knox 104,In person,69/170
+CSE 587,C,Data Intensive Computing,Naeem Maroof,01/22/2025 - 05/06/2025,MWF,2:00PM-2:50PM,Knox 109,In person,31/200
+CSE 587,D,Data Intensive Computing,Naeem Maroof,01/22/2025 - 05/06/2025,MWF,3:00PM-3:50PM,Nsc 228,In person,66/97
+CSE 589,A,Modern Network Concepts,Yaxiong Xie,01/22/2025 - 05/06/2025,TR,5:00PM-6:20PM,Knox 110,In person,127/150
+CSE 590,A,Computer Architecture,Ramalingam Sridhar,01/22/2025 - 05/06/2025,MWF,2:00PM-2:50PM,Knox 110,In person,132/141
+CSE 598,000,Internship,Haipeng Cai,01/22/2025 - 05/06/2025,ARR,Unknown,Unknown,In person,5/50
+CSE 610,XION,Special Topic: GPU Programming and its Applications to Artificial Intelligence,Jinjun Xiong,01/22/2025 - 05/06/2025,R,1:00PM-3:50PM,Davis 113A,In person,7/10
+CSE 611,A,MS Project Development,Alan Hunt,01/22/2025 - 05/06/2025,MWF,2:00PM-2:50PM,Baldy 108,In person,39/40
+CSE 632,A,Analysis of Algorithms II,Kelin Luo,01/22/2025 - 05/06/2025,TR,3:30PM-4:50PM,Talbrt 103,In person,1/30
+CSE 635,ROH,Natural Language Processing and Text Mining,Rohini Srihari,01/22/2025 - 05/06/2025,TR,3:30PM-4:50PM,Nsc 205,Hybrid: remote and in person,57/60
+CSE 676,A,Deep Learning,Kaiyi Ji,01/22/2025 - 05/06/2025,TR,5:00PM-6:20PM,Talbrt 107,In person,33/100
